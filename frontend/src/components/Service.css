@@ -1,0 +1,16 @@
+/* ServicePage.css */
+
+.service-card {
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  
+  .error-message {
+    margin-top: 20px;
+  }
+  
+  .success-message {
+    margin-top: 20px;
+  }
+  
